@@ -16,7 +16,8 @@ My best character attribute is my continual quest for self-improvement. I value 
 
 My [love language is Acts of Service](https://www.5lovelanguages.com/2009/02/acts-of-service/); please tell me something I can do for you. I’m fueled by gratitude. 🙏
 
-[https://lh4.googleusercontent.com/KDHu98EpkojqwKBykMPZYRRqBzHvM-NWOVTfa_Rw2WhZkKsVmMvhqZnr5dCYEjewMyzGl-PK3TCbUViNUbkZ1Y3VThwWicrXVKAB31WEbULcdFwD5IXStRQ9my_kcMIRvUj83bB5](https://lh4.googleusercontent.com/KDHu98EpkojqwKBykMPZYRRqBzHvM-NWOVTfa_Rw2WhZkKsVmMvhqZnr5dCYEjewMyzGl-PK3TCbUViNUbkZ1Y3VThwWicrXVKAB31WEbULcdFwD5IXStRQ9my_kcMIRvUj83bB5)
+
+![Nick Sullivan on a chair](https://lh4.googleusercontent.com/KDHu98EpkojqwKBykMPZYRRqBzHvM-NWOVTfa_Rw2WhZkKsVmMvhqZnr5dCYEjewMyzGl-PK3TCbUViNUbkZ1Y3VThwWicrXVKAB31WEbULcdFwD5IXStRQ9my_kcMIRvUj83bB5)
 
 ### Significant parts of my story that have shaped who I am
 
@@ -44,7 +45,7 @@ Even the company name, HeartRithm (Heart + [algo]Rithm, speaks to what I conside
 
 Here’s a visual representation. The first ring represents the high-level core values, and the outer ring is made up of examples.
 
-[https://lh3.googleusercontent.com/6wf5ddk9tYxE13uk2bk7boIhqj1DCyrhRA7eLC8nRxY3WQ0caFweesAN0b7cc4s14yEVo61CI-c4p2s1Qcb4JG1799pt5ZxWxfFAA9dLZbgjMWayJRcVyLm0DCu5E5S6kW60R62l](https://lh3.googleusercontent.com/6wf5ddk9tYxE13uk2bk7boIhqj1DCyrhRA7eLC8nRxY3WQ0caFweesAN0b7cc4s14yEVo61CI-c4p2s1Qcb4JG1799pt5ZxWxfFAA9dLZbgjMWayJRcVyLm0DCu5E5S6kW60R62l)
+![Nick Sullivan's Core Values](https://lh3.googleusercontent.com/6wf5ddk9tYxE13uk2bk7boIhqj1DCyrhRA7eLC8nRxY3WQ0caFweesAN0b7cc4s14yEVo61CI-c4p2s1Qcb4JG1799pt5ZxWxfFAA9dLZbgjMWayJRcVyLm0DCu5E5S6kW60R62l)
 
 Note: My process for generating the above graphic was to start with a [list of values](https://scottjeffrey.com/core-values-list/), select the ones that applied to me, and then thoughtfully group them with [Xmind](https://www.xmind.net/). If you’re inspired to do the same, I’d love to see yours!
 
