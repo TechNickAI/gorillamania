@@ -1,8 +1,6 @@
 # Nick.README
 
-Version [1.3.1](https://semver.org/)
-
-[TL;DR](https://www.howtogeek.com/435266/what-does-tldr-mean-and-how-do-you-use-it/) - I’m the Founder and CEO of HeartRithm, which is my life’s work. I aim to lead with my heart, set a great example, and serve **you** on this epic journey we are on together.
+Version [1.4.0](https://semver.org/)
 
 ## Nick Sullivan, the human being
 
@@ -74,13 +72,13 @@ Note: My process for generating the above graphic was to start with a [list of v
 - Food: Cherries
 - Alcohol: Tequila
 - Movie: The Matrix
-- Daughter: Anna
 
 ### Things I would love to geek out with you about
 
 Are you looking for something to start a conversation with me? In no particular order, here are some interests of mine:
 
 - Software development process
+- AI Automation 🤖
 - Mindfulness & Trans-tech
 - Impactful stories of YOUR life that have shaped who you are
 - Productivity and Efficiency (Individual and Team)
@@ -92,35 +90,23 @@ Are you looking for something to start a conversation with me? In no particular 
 - Keto & Intermittent Fasting
 - The Universe
 
-## My role at HeartRithm
-
-### What kind of CEO am I?
+## What kind of CEO am I?
 
 I don’t usually like being bucketed, but according to this article describing the [6 types of CEOs](https://www.hrmagazine.co.uk/content/features/the-six-types-of-ceo), I’m a Global Missionary.
 
 I see my primary responsibilities as:
 
-1. Holding the vision of what’s to be built with this multi-generational company
+1. Holding the vision of what’s to be built
 2. Align incentives and pull energy to the cause
 3. Solve the most challenging problems to free up momentum
 
 My secondary responsibilities include
 
-- Leading by example - to be emblematic of our cultural values
+- Leading by example - to be emblematic of cultural values
 - Attracting, hiring, engaging, and developing world-class talent
 - Fundraising to make sure we have sufficient fuel
 
 I’m a technologist at my core, and I’ll assume whatever role is necessary to make HeartRithm successful.
-
-### Objectives to accomplish on the HeartRithm journey
-
-It’s not enough to achieve the mission of becoming a regenerative engine for social impact; we also have to be proud of how we do it along the way. These objectives are important to me:
-
-- The New Story of Money. HeartRithm is an emblematic example of a business model that scraps the traditional mantra of “maximizing shareholder value”, and instead shows that leading the business with a social impact mission is great for business.
-- Restoring the balance of the masculine and feminine energy
-- Showcasing the power of regenerative systems that create Upward Spirals, the more energy you put in, the more you get out. Note this is why the original tag line for HeartRithm was “A Regenerative Engine for Social Impact”
-- Showing that Unconditional Love belongs in business, and that choosing love (using your heart) should be the highest order decision making bit
-- Employing 21st Century Organizational principles, as defined in [Reinventing Organizations](https://www.reinventingorganizations.com/) - the top-down hierarchical model in corporate America will give way to a decentralized, empowered, self-driven company.
 
 ## Working with me
 
@@ -142,8 +128,6 @@ I’m available on almost all of the messaging platforms (Signal, WhatsApp, iMes
 I prefer to use the lowest urgency communication method that accomplishes the goal and ask that you do the same.
 
 Slack communication should be the default for work. If I text you for a personal matter, it will usually be via SMS/iMessage. Note: I often send messages at odd hours or on the weekends - that does not mean I expect you to respond immediately. You respond when it’s the right time for you. I’ll call you if I need you.
-
-Do you need time with me? My schedule is often very full, and my calendar is meticulously managed by my personal assistant [Asa](mailto:asa@heartrithm.com). You can either reach out to her or book a time on my [calendly link](https://calendly.com/nicksullivan/30min).
 
 ### I work best with people who
 
