@@ -27,7 +27,7 @@ I've held many successful technology leadership positions. I’m usually the fir
 
 My technology career has generated millions of dollars in value,  with a [nice exit](https://www.saastr.com/inside-story-krux-700m-acquisition-video-transcript/) along the way.  There have been many industries - digital media, consumer web, ad-tech, fin-tech, and crypto - with a consistent theme of teaching computers to understand people.
 
-In 2013, I read the [Bitcoin whitepaper](https://nakamotoinstitute.org/bitcoin/). All lightbulbs went off; Bitcoin would be a revolutionary technology. It would enable *Trust through validation* vs. Trust through *reputation*. So I threw my career behind Bitcoin in 2013, creating ChangeTIp, a bitcoin tipping engine for Social Media ([acquired by Airbnb](https://www.businessinsider.com/airbnb-buys-bitcoin-startup-changecoin-2016-4)). ChangeTip was a gratitude and appreciation engine for the web, or as I like to call it - a Love Button for the Internet.
+In 2013, I read the [Bitcoin whitepaper](https://nakamotoinstitute.org/bitcoin/). All lightbulbs went off; Bitcoin would be a revolutionary technology. It would enable *Trust through validation* vs. Trust through *reputation*. So I threw my career behind Bitcoin in 2013, creating ChangeTIp, a Bitcoin tipping engine for Social Media ([acquired by Airbnb](https://www.businessinsider.com/airbnb-buys-bitcoin-startup-changecoin-2016-4)). ChangeTip was a gratitude and appreciation engine for the web, or as I like to call it - a Love Button for the Internet.
 
 I’m known as a top CEO in crypto, and I’ve been called a “[Top 25 Mind in Bitcoin](https://www.wsj.com/articles/BL-MBB-37444)” - that was easier to do in 2015!
 
@@ -35,9 +35,7 @@ My partner is Brigitte, who I call my Goddess of Love and Light. She opened my h
 
 ### My Purpose
 
-Whether you call it Purpose, Mission, Dharma, or [Perfectenshlag](https://www.youtube.com/watch?v=g3kl1SPCNtg), I am so deep in it here at HeartRithm.
-
-Even the company name, HeartRithm (Heart + [algo]Rithm, speaks to what I consider my ultimate dharma to help build the healthy intersection of humanity and technology. It’s time to stop living out the cold dark dystopian future that plays out in our media and establish that technology is here to be a force for good. Technology in and of itself is amoral; it just imbues the values of its creators. I’ve spent 20+ years building up my career, connections, reputation, and skills to make HeartRithm possible, and I wake up [almost] every day grateful for the opportunity to create a massive positive impact in the world using my gifts.
+I've been working on the healthy intersection of technology and humanity for many years. We don't need to live into the Hollywood cold dark dystopian future where machines take us over. There's at least one Universe where this all works out well, and we peacefully co-exist with the machines in an upward spiral - I'm putting my energy toward that one.
 
 ### My Core Values
 
